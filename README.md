@@ -20,6 +20,8 @@ The project uses tutorial and demo datasets provided for Yandex DataLens scenari
 - Business analysis
 - Insight storytelling
 - Working with Yandex DataLens
+[https://datalens.ru/0xgttq1sy97kk?tab=Aj]{https://datalens.ru/0xgttq1sy97kk?tab=Aj}
+<img width="1720" height="835" alt="image" src="https://github.com/user-attachments/assets/143db4fb-8ee4-4bf2-83c4-cd67958ba859" />
 
 ## What is inside
 - Dashboard screenshots
