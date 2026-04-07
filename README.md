@@ -20,8 +20,13 @@ The project uses tutorial and demo datasets provided for Yandex DataLens scenari
 - Business analysis
 - Insight storytelling
 - Working with Yandex DataLens
-[https://datalens.ru/0xgttq1sy97kk?tab=Aj]{https://datalens.ru/0xgttq1sy97kk?tab=Aj}
+
+1.[DODO]{https://datalens.ru/0xgttq1sy97kk?tab=Aj}
 <img width="1720" height="835" alt="image" src="https://github.com/user-attachments/assets/143db4fb-8ee4-4bf2-83c4-cd67958ba859" />
+
+2.[Moscow Shops dashboard]{https://datalens.ru/ki88r85dz2ck4}
+<img width="1726" height="783" alt="image" src="https://github.com/user-attachments/assets/e5b7368d-d557-4f7c-933e-d07a9080bb7d" />
+
 
 ## What is inside
 - Dashboard screenshots
